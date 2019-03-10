@@ -2,3 +2,7 @@
 *.h5
 logs/
 .vscode/
+build
+dist
+*.egg-info
+__pycache__
